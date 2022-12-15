@@ -5,6 +5,7 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     filename: "main.js",
+    publicPath: '/webpackdemo/',
     path: path.resolve(__dirname, "dist"),
   },
 
