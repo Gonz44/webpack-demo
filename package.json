@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/Gonz44/webpack-demo.git"
+  },
   "devDependencies": {
     "gh-pages": "^4.0.0",
     "webpack": "^5.75.0",
